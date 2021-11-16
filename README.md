@@ -1,4 +1,4 @@
-# UW527_Crypto_Assg3_HSM
+# ToxSec-HSM
 Simulated Hardware Security Module.
 
 Implemented as a fullstack web application.
